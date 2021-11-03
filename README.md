@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is a simple application made with React class, it shows the time remain for your birthday.
 
 ## Available Scripts
 
